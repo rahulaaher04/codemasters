@@ -10,7 +10,7 @@ public class Hello {
 		
 		System.out.println("rahul");
 		
-		System.out.println("58");
+		System.out.println("hello moto");
 	}
 
 }
